@@ -3,10 +3,11 @@ Here’s your text with a few simple emojis added, keeping it clean:
 
 ---
 
-Frontend Developer 💻 with a focus on building clear and easy-to-use web interfaces. I work mainly with HTML, CSS, and JavaScript to create responsive pages 📱 that perform well across different devices. I pay attention to structure, layout, and writing code that is clean and easy to understand.<br><br>
-
-Along with frontend work, I also have basic experience with backend development using Node.js ⚙️ and Python Flask 🐍. I understand how to handle simple server-side logic, routes, and connecting the frontend with backend services 🔗.
-
+Hi, I'm a Computer Science student and Frontend Web Developer 💻 with a focus on building clear and easy-to-use web interfaces. 
+I work mainly with HTML, CSS, and JavaScript to create responsive pages 📱 that perform well across different devices. <br><br>
+Along with frontend work, I also have basic experience with backend development using Node.js ⚙️ and Python Flask 🐍.
+I also have experience deploying projects 🚀 and making them accessible online.
+🤝 Open to collaboration on meaningful projects and innovative ideas.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aliha55anch) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aliha55anch) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aliha55anch) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chali37125@gmail.com) 
