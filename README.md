@@ -33,7 +33,7 @@ const aliHassan = {
   openTo: "Full-time roles & freelance web development"
 };
 ```
-
+<div align="center">
 ---
 
 ## 🌐 Socials
@@ -65,3 +65,5 @@ const aliHassan = {
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+</div>
