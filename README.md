@@ -14,7 +14,6 @@
 
 [![](https://komarev.com/ghpvc/?username=aliha55anch&icon=0&color=0)](https://visitcount.itsvg.in)
 
-</div>
 
 ---
 
@@ -22,11 +21,11 @@
 
 ```typescript
 const aliHassan = {
-  title: "Computer Science Student & Full Stack Developer",
-  stack: ["React", "Node.js", "Express.js", "MySQL", "MongoDB", "TailwindCSS", "JWT"],
-  focus: "Building full-stack applications with clean architecture and secure authentication",
+  title: "Computer Science Student & Web Developer",
+  stack: ["React", "Node.js", "Express.js", "MySQL", "MongoDB", "TailwindCSS"],
+  focus: "Building websites and web applications with clean architecture and secure authentication",
   currentlyLearning: ["Backend architecture", "API security", "System design", "Performance optimization"],
-  interestedIn: ["EdTech", "Productivity tools", "Web platforms solving real-world problems"],
+  interestedIn: ["Productivity tools", "Web platforms solving real-world problems"],
   status: "Open to collaborating on meaningful web applications and open source projects",
   openTo: "Full-time roles & freelance web development"
 };
@@ -63,3 +62,5 @@ const aliHassan = {
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+</div>
