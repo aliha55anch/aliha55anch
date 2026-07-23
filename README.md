@@ -14,10 +14,13 @@
 
 [![](https://komarev.com/ghpvc/?username=aliha55anch&icon=0&color=0)](https://visitcount.itsvg.in)
 
+</div>
 
 ---
 
 ## 💫 Who I Am
+
+<div align="center">
 
 ```typescript
 const aliHassan = {
@@ -30,6 +33,8 @@ const aliHassan = {
   openTo: "Full-time roles & freelance web development"
 };
 ```
+
+</div>
 
 ---
 
@@ -62,5 +67,3 @@ const aliHassan = {
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-</div>
