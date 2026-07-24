@@ -11,11 +11,9 @@
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge&logo=github&logoColor=white)
 
-[![](https://komarev.com/ghpvc/?username=aliha55anch&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
----
 
 ## 💫 Who I Am
 
@@ -50,10 +48,6 @@ const aliHassan = {
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aliha55anch&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
 
