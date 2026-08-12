@@ -23,13 +23,13 @@
 
 ```typescript
 const aliHassan = {
-  title: "Computer Science Student & Web Developer",
+  title: "Computer Science Student & MERN Stack Developer",
   stack: ["React", "Node.js", "Express.js", "MySQL", "MongoDB", "TailwindCSS"],
   focus: "Building websites and web applications with clean architecture and secure authentication",
   currentlyLearning: ["Backend architecture", "API security", "System design", "Performance optimization"],
   interestedIn: ["Productivity tools", "Web platforms solving real-world problems"],
   status: "Open to collaborating on meaningful web applications and open source projects",
-  openTo: "Full-time roles & freelance web development"
+  openTo: "Part-time roles & freelance web development"
 };
 ```
 <div align="center">
