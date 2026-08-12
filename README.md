@@ -1,9 +1,12 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Muhammad%20Ali%20Hassan&fontSize=42&animation=twinkling&fontAlignY=35&desc=React%20Developer&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Muhammad%20Ali%20Hassan&fontSize=42&animation=twinkling&fontAlignY=35&desc=MERN%20Stack%20Developer&descAlignY=55&descSize=18)
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react" width="70" alt="React" />
+<img src="https://skillicons.dev/icons?i=mongodb" width="70" alt="React" />
+  <img src="https://skillicons.dev/icons?i=express" width="70" alt="React" />
+  <img src="https://skillicons.dev/icons?i=react" width="70" alt="React" />
+  <img src="https://skillicons.dev/icons?i=node" width="70" alt="React" />
 </div>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+with+React+%26+Node.js;Clean+architecture+%2B+secure+authentication;Learning+system+design+%26+API+security;Open+to+collaboration+on+%26+web+platforms" alt="Typing SVG" />
