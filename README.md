@@ -1,8 +1,14 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20Ali%20Hassan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20CS%20Student&descAlignY=55&descSize=18&descColor=f0f0f0)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20Ali%20Hassan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer&descAlignY=55&descSize=18&descColor=f0f0f0)
 
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,ts,figma" width="60" alt="Tech icons" />
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" width="70" alt="Mongodb" />
+  <img src="https://skillicons.dev/icons?i=express" width="70" alt="Express" />
+  <img src="https://skillicons.dev/icons?i=react" width="70" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="70" alt="Nodejs" />
+  <img src="https://skillicons.dev/icons?i=ts" width="70" alt="Typecript" />
+</div>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+full-stack+apps+with+React+%26+Node.js;Clean+architecture+%2B+secure+authentication;Learning+system+design+%26+API+security;Open+to+collaboration+on+web+platforms" alt="Typing SVG" />
@@ -138,8 +144,10 @@ const aliHassan = {
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
 
-</div>
+
 
 <br/>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+
+</div>
