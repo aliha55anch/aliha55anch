@@ -32,7 +32,7 @@ const aliHassan = {
   openTo: "Part-time roles & freelance web development"
 };
 ```
-<div align="center">
+<div>
 
 
 ## 🌐 Socials
