@@ -78,11 +78,12 @@ const aliHassan = {
 <div>
 
 ## 📊 GitHub Stats
-<div align="center">
 ![](https://streak-stats.demolab.com/?user=aliha55anch&theme=one_dark_pro&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api?username=aliha55anch&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)
+<div align="center">
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=aliha55anch&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
+
 </div>
 
 <br/>
