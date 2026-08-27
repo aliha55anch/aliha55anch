@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20Ali%20Hassan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20&%20Next.js%20Developer&descAlignY=55&descSize=18&descColor=f0f0f0)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20Ali%20Hassan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20|%20Next.js%20Developer&descAlignY=55&descSize=18&descColor=f0f0f0)
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=mongodb" width="70" alt="Mongodb" />
@@ -79,7 +79,7 @@ const aliHassan = {
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aliha55anch&theme=one_dark_pro&hide_border=false&show_icons=true" height="165" alt="GitHub Stats" /><br/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aliha55anch&theme=one_dark_pro&hide_border=false&show_icons=true" height="165" /> <br/>
 <!-- <img src="https://streak-stats.demolab.com/?user=aliha55anch&theme=one_dark_pro&hide_border=false" height="165" /><br/> -->
 <img src="https://github-readme-stats.shion.dev/api?username=aliha55anch&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true" height="165" /><br/>
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=aliha55anch&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165" />
