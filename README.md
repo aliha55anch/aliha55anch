@@ -79,8 +79,7 @@ const aliHassan = {
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aliha55anch&theme=one_dark_pro&hide_border=false&show_icons=true" height="165" /> <br/>
-<!-- <img src="https://streak-stats.demolab.com/?user=aliha55anch&theme=one_dark_pro&hide_border=false" height="165" /><br/> -->
+<img src="https://streak-stats.demolab.com/?user=aliha55anch&theme=one_dark_pro&hide_border=false" height="165" /><br/>
 <img src="https://github-readme-stats.shion.dev/api?username=aliha55anch&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true" height="165" /><br/>
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=aliha55anch&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165" />
 
@@ -90,15 +89,17 @@ const aliHassan = {
 
 ## 🗓️ Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliha55anch&theme=react-dark&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aliha55anch&theme=react-dark&hide_border=true&area=true" width="95%" />
+
+</div> 
 
 <br/>
 
 <div align="center">
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
 
