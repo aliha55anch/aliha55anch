@@ -87,16 +87,6 @@ const aliHassan = {
 
 <br/>
 
-## 🗓️ Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aliha55anch&theme=react-dark&hide_border=true&area=true" width="95%" />
-
-</div> 
-
-<br/>
-
 <div align="center">
 
 ## ✍️ Random Dev Quote
